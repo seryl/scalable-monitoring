@@ -1,0 +1,8 @@
+---
+author: Josh Toft
+title: Monitoring with Chef and Icinga
+exclude:
+- figures
+- figures-dia
+- figures-source
+- README.md
